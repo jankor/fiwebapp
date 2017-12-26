@@ -1,0 +1,17 @@
+{
+  "name": "fifront",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=4.4.4"
+  },
+  "scripts": {
+    "build" : "webpack",
+    "start": "node node.js"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
